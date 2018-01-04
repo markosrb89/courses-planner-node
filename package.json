@@ -1,0 +1,23 @@
+{
+  "name": "courses-planner-node",
+  "version": "1.0.0",
+  "description": "Planning courses app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Marko Krtolica",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.2",
+    "connect-flash": "^0.1.1",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.6",
+    "method-override": "^2.3.10",
+    "mongoose": "^4.12.4",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  }
+}

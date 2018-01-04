@@ -1,0 +1,17 @@
+.logo {
+    width: 130px;
+    margin: auto;
+}
+
+.btn {
+    width: 15%;
+}
+
+.welcome-img {
+    background-image: url("../img/webdevelopment-banner.png");
+}
+
+.display-3 {
+    color: lemonchiffon;
+    font-weight: 600;
+}
